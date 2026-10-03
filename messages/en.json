@@ -1,0 +1,83 @@
+{
+  "Navigation": {
+    "dashboard": "Dashboard",
+    "symptomChecker": "Symptom Checker",
+    "reportUpload": "Report Upload",
+    "reportAnalysis": "Report Analysis",
+    "medication": "Medications",
+    "history": "History",
+    "settings": "Settings"
+  },
+  "Topbar": {
+    "search": "Search reports..."
+  },
+  "Hero": {
+    "badge": "Free AI medical report analyzer",
+    "title1": "Analyze your medical reports online,",
+    "title2": "without handing it to a chatbot.",
+    "description": "Upload your lab PDF and get instant AI analysis of every parameter, in plain language. MedAgent validates each value against standard reference ranges and strips identifying details before analysis — your report is never used to train AI.",
+    "cta1": "Analyze your report — free",
+    "cta2": "See how your data is protected",
+    "feature1": "No credit card",
+    "feature2": "Free forever plan",
+    "feature3": "Private by design",
+    "terminalTitle": "how_your_data_flows",
+    "terminalEncrypted": "encrypted"
+  },
+  "Dashboard": {
+    "title": "Good morning, John!",
+    "subtitle": "Your health profile is looking good. You have 2 reports ready for review and 1 medication reminder today.",
+    "uploadBtn": "Upload Report",
+    "symptomsBtn": "Check Symptoms",
+    "stats": {
+      "totalReports": "Total Reports",
+      "totalReportsTrend": "2 this month",
+      "activeSymptoms": "Active Symptoms",
+      "activeSymptomsTrend": "Looking good!",
+      "medications": "Medications",
+      "medicationsTrend": "1 needs refill soon",
+      "healthStreak": "Health Streak",
+      "healthStreakTrend": "Days logged in"
+    },
+    "recentReports": "Recent Reports",
+    "viewAll": "View All",
+    "reports": {
+      "r1": "Comprehensive Blood Panel",
+      "r2": "Vitamin D Test",
+      "r3": "Annual Health Checkup",
+      "analyzed": "Analyzed"
+    },
+    "quickActions": "Quick Actions",
+    "addMed": "Add Med",
+    "updateVitals": "Update Vitals",
+    "healthTipTitle": "Health Tip",
+    "healthTipDesc": "Remember to drink at least 8 glasses of water today. Staying hydrated helps maintain your blood pressure levels."
+  },
+  "SymptomChecker": {
+    "title": "Symptom Checker",
+    "subtitle": "What's bothering you today?",
+    "placeholder": "E.g., headache, fever, cough...",
+    "addBtn": "Add",
+    "empty": "Type your symptoms above or select common ones below.",
+    "commonTitle": "Common Symptoms",
+    "symptomsList": [
+      "Headache",
+      "Fever",
+      "Cough",
+      "Fatigue",
+      "Sore Throat",
+      "Nausea"
+    ],
+    "readyTitle": "Ready to Analyze",
+    "readyDesc": "Add your symptoms on the left, then click analyze to get AI-powered insights.",
+    "analyzeBtn": "Analyze Symptoms",
+    "analyzingTitle": "Analyzing Data...",
+    "analyzingDesc": "Our AI is cross-referencing your symptoms with vast medical knowledge bases.",
+    "processing": "Processing 3.4M clinical records...",
+    "completeTitle": "Analysis Complete",
+    "conditionsTitle": "Possible Conditions",
+    "adviceTitle": "AI Advice",
+    "disclaimer": "Disclaimer: This tool is for informational purposes only and is not a substitute for professional medical advice.",
+    "startNew": "Start New Check"
+  }
+}
